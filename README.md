@@ -6,4 +6,3 @@ In-progress portfolio page showcasing completed projects undergoing refinement f
 *	Developed the initial architecture of the CNN model and employed GridSearch for hyper tunning, maximizing the model’s performance 
 *	Generated plots to visualize the validation metrics, including Accuracy/F1 and loss, providing a visual assessment of the model’s performance 
 *	Concluded with a Test Accuracy of 86% and an F1 score of 8 
-*	Difficulty classifying similar-looking signs and performing better on the original data rather than augmented. 
