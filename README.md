@@ -7,4 +7,4 @@ In-progress portfolio page showcasing completed projects undergoing refinement f
 *	Generated plots to visualize the validation metrics, including Accuracy/F1 and loss, providing a visual assessment of the model’s performance 
 *	Concluded with a Test Accuracy of 86% and an F1 score of 8 
 
-![](https://github.com/Brandon-Cruz/Portfolio/blob/main/Images/Screenshot%202023-06-22%20102458.png)
+![](/Images/Screenshot%202023-06-22%20102458.png)
